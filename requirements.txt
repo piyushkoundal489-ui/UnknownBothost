@@ -1,0 +1,5 @@
+python-telegram-bot==22.7
+flask>=3.0,<4
+psutil>=5.9
+requests>=2.31
+cryptography>=42

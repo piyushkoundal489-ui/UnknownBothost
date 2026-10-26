@@ -1,0 +1,12 @@
+__pycache__/
+venv/
+.hosting_secret.key
+hosting_data.json
+bots/
+hosted_files/
+bot_data/
+hosted_bot_users/
+backup/
+bot_logs/
+pip_packages/
+*.txt.tmp
